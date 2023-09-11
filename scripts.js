@@ -1,3 +1,4 @@
+
 var products = [
     {
         "photo": "img/big-mac.png",
